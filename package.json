@@ -1,0 +1,31 @@
+{
+  "name": "curso-festiva-de-musica",
+  "version": "1.0.0",
+  "description": "Aplicacion Web de festival de musica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willangeljuma15/Curso-festival-musica.git"
+  },
+  "keywords": [
+    "festival",
+    "musica",
+    "proyecto",
+    "gulp",
+    "sass",
+    "nodejs"
+  ],
+  "author": "Will Angel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willangeljuma15/Curso-festival-musica/issues"
+  },
+  "homepage": "https://github.com/willangeljuma15/Curso-festival-musica#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
